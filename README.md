@@ -7,7 +7,7 @@ The Credit-Wise Classifier is a machine learning model designed to assess the cr
 # Installation
 Clone the repository:
 bash
-git clone https://github.com/your-username/credit-wise-classifier.git
+git clone https://github.com/Sudharshinijothikumar/Bank_Creditwise_Classifier.git
 Navigate to the project directory:
 bash
 cd credit-wise-classifier
